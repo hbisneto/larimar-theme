@@ -1,0 +1,40 @@
+{
+    "name":"theme-word",
+    "displayName":"%displayName%",
+    "description":"%description%",
+    "categories":["Themes"],
+    "version":"1.0.0",
+    "publisher":"BisnetoInc",
+    "icon": "assets/icon.png",
+    "license":"MIT",
+    
+    "engines":
+    {
+        "vscode":"*"
+    },
+    
+    "contributes":
+    {
+        "themes":
+        [
+            {
+                "id":"Word (Dark)",
+                "label":"%WordDark%",
+                "uiTheme":"vs-dark",
+                "path":"./themes/Dark/word-theme-dark.json"
+            },
+            {
+                "id":"Word (Light)",
+                "label":"%WordLight%",
+                "uiTheme":"vs",
+                "path":"./themes/Light/word-theme-light.json"
+            }
+        ]
+    },
+    
+    "repository":
+    {
+        "type":"git",
+        "url":"https://github.com/hbisneto/word-theme.git"
+    }
+}
