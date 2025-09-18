@@ -1,6 +1,6 @@
 {
 	"$schema": "vscode://schemas/color-theme",
-	"name": "WordLike Tokens",
+	"name": "Larimar Tokens",
 	"colors": {
 		"activityBar.background": "#000",
 		"activityBar.foreground": "#2b7cd3",

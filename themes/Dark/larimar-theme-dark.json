@@ -1,6 +1,6 @@
 {
 	"$schema": "vscode://schemas/color-theme",
-	"name": "WordLike Theme (Dark)",
+	"name": "Larimar Theme (Dark)",
 	"include": "./tokens-dark.json",
 	"tokenColors": [
 		{
