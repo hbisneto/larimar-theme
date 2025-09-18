@@ -1,13 +1,13 @@
-# Word Theme
+# WordLike Theme
 
 Word theme brings Microsoft Word to Visual Studio Code.
 
-![Word for Visual Studio Code](https://raw.githubusercontent.com/hbisneto/hbisneto.github.io/main/word-theme/banner.png)
+![WordLike for Visual Studio Code](https://raw.githubusercontent.com/hbisneto/hbisneto.github.io/main/word-theme/banner.png)
 
 ## Available Themes
 
-- Word Theme (Dark)
-- Word Theme (Light)
+- WordLike Theme (Dark)
+- WordLike Theme (Light)
 
 # Contribute
 

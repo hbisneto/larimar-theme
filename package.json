@@ -3,7 +3,7 @@
     "displayName":"%displayName%",
     "description":"%description%",
     "categories":["Themes"],
-    "version":"1.0.0",
+    "version":"1.1.0",
     "publisher":"BisnetoInc",
     "icon": "assets/icon.png",
     "license":"MIT",
@@ -18,13 +18,13 @@
         "themes":
         [
             {
-                "id":"Word (Dark)",
+                "id":"WordLike (Dark)",
                 "label":"%WordDark%",
                 "uiTheme":"vs-dark",
                 "path":"./themes/Dark/word-theme-dark.json"
             },
             {
-                "id":"Word (Light)",
+                "id":"WordLike (Light)",
                 "label":"%WordLight%",
                 "uiTheme":"vs",
                 "path":"./themes/Light/word-theme-light.json"
