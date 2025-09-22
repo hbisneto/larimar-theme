@@ -1,7 +1,7 @@
 {
-    "displayName":"Word Theme",
-    "description":"Microsoft Word Theme for Visual Studio Code",
+    "displayName":"Larimar Theme",
+    "description":"Larimar Theme for Visual Studio Code",
 
-    "WordDark":"Word Theme (Dark)",
-    "WordLight":"Word Theme (Light)"
+    "LarimarDark":"Larimar Theme (Dark)",
+    "LarimarLight":"Larimar Theme (Light)"
 }

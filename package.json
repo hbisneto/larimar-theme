@@ -3,7 +3,7 @@
     "displayName":"%displayName%",
     "description":"%description%",
     "categories":["Themes"],
-    "version":"1.0.0",
+    "version":"1.1.0",
     "publisher":"BisnetoInc",
     "icon": "assets/icon.png",
     "license":"MIT",
@@ -18,16 +18,16 @@
         "themes":
         [
             {
-                "id":"Word (Dark)",
-                "label":"%WordDark%",
+                "id":"Larimar (Dark)",
+                "label":"%LarimarDark%",
                 "uiTheme":"vs-dark",
-                "path":"./themes/Dark/word-theme-dark.json"
+                "path":"./themes/Dark/larimar-theme-dark.json"
             },
             {
-                "id":"Word (Light)",
-                "label":"%WordLight%",
+                "id":"Larimar (Light)",
+                "label":"%LarimarLight%",
                 "uiTheme":"vs",
-                "path":"./themes/Light/word-theme-light.json"
+                "path":"./themes/Light/larimar-theme-light.json"
             }
         ]
     },
@@ -35,6 +35,6 @@
     "repository":
     {
         "type":"git",
-        "url":"https://github.com/hbisneto/word-theme.git"
+        "url":"https://github.com/hbisneto/larimar-theme.git"
     }
 }
